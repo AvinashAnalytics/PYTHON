@@ -1,4 +1,4 @@
-# Python for Data Science Certification - Assignments and Case Study
+# Concept of OOPs in Python - Assignments and Case Study
 
 ## Overview
 
@@ -6,7 +6,7 @@ This repository contains the assignments and case study related to the "Python f
 
 ## Table of Contents
 
-1. [Module 1: Functions and Loops](#module-1-functions-and-loops)
+1. [Module 2: Functions and Loops](#module-1-functions-and-loops)
 2. [Module 2: Object-Oriented Programming (OOP)](#module-2-object-oriented-programming-oop)
 3. [Module 2: Import Assignment](#module-2-import-assignment)
 4. [Module 2: Inheritance](#module-2-inheritance)
